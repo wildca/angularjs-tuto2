@@ -1,0 +1,2 @@
+command: node scripts/web-server.js 
+
